@@ -16,5 +16,5 @@ To goal of the project isto get experience with A/B testing, it's difficulties a
 
 ### Authors
 
-* Christoph Lindstädt
+* Kalyan Pesala
 * Udacity
